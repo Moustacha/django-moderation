@@ -5,6 +5,7 @@ from .unit.admin import *
 from .unit.diff import *
 from .unit.forms import *
 from .unit.moderator import *
+from .unit.fields import *
 from .regression import *
 from .acceptance.exclude import *
 from .acceptance.auto_discover import *
